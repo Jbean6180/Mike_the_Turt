@@ -1,2 +1,2 @@
 # Pyshapes
-practice with turtle library, colorful turtle
+practice with turtle library, golden turtle
