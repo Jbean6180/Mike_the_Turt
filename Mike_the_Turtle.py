@@ -1,7 +1,7 @@
 import turtle
 
 def drawSquare(Myturtle):
-	Myturtle.color("green")
+	Myturtle.color("gold")
 	for i in range(4):
 		Myturtle.forward(100)
 		Myturtle.right(90)
@@ -13,7 +13,7 @@ def drawTriangle(Myturtle):
 		Myturtle.right(120)
 
 def drawSomethingCool(Myturtle):
-	Myturtle.color("yellow")
+	Myturtle.color("purple")
 	for i in range(100):
 		Myturtle.forward(2 * 2 * i)
 		Myturtle.right(90)
